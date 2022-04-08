@@ -1,0 +1,12 @@
+{
+    "name": "coresoft/page-section",
+    "description": "module page laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Volodymyr",
+            "email": "v.o.onishchenko@ukr.net"
+        }
+    ],
+    "require": {}
+}
